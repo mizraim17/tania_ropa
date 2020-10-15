@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tania_ropa/precache-manifest.ffc682b4b746b0667ab715625aa605af.js"
+  "/tania_ropa/precache-manifest.022b149947fd2f09a5f6fda543bc3a14.js"
 );
 
 self.addEventListener('message', (event) => {

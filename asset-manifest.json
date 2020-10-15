@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tania_ropa/static/css/main.d421a2d7.chunk.css",
-    "main.js": "/tania_ropa/static/js/main.48fbf12f.chunk.js",
-    "main.js.map": "/tania_ropa/static/js/main.48fbf12f.chunk.js.map",
+    "main.css": "/tania_ropa/static/css/main.5cb8af42.chunk.css",
+    "main.js": "/tania_ropa/static/js/main.5d2285c6.chunk.js",
+    "main.js.map": "/tania_ropa/static/js/main.5d2285c6.chunk.js.map",
     "runtime-main.js": "/tania_ropa/static/js/runtime-main.7bb1f450.js",
     "runtime-main.js.map": "/tania_ropa/static/js/runtime-main.7bb1f450.js.map",
     "static/css/2.2a86faee.chunk.css": "/tania_ropa/static/css/2.2a86faee.chunk.css",
     "static/js/2.899fee66.chunk.js": "/tania_ropa/static/js/2.899fee66.chunk.js",
     "static/js/2.899fee66.chunk.js.map": "/tania_ropa/static/js/2.899fee66.chunk.js.map",
     "index.html": "/tania_ropa/index.html",
-    "precache-manifest.ffc682b4b746b0667ab715625aa605af.js": "/tania_ropa/precache-manifest.ffc682b4b746b0667ab715625aa605af.js",
+    "precache-manifest.022b149947fd2f09a5f6fda543bc3a14.js": "/tania_ropa/precache-manifest.022b149947fd2f09a5f6fda543bc3a14.js",
     "service-worker.js": "/tania_ropa/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/tania_ropa/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.d421a2d7.chunk.css.map": "/tania_ropa/static/css/main.d421a2d7.chunk.css.map",
+    "static/css/main.5cb8af42.chunk.css.map": "/tania_ropa/static/css/main.5cb8af42.chunk.css.map",
     "static/js/2.899fee66.chunk.js.LICENSE.txt": "/tania_ropa/static/js/2.899fee66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7bb1f450.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.899fee66.chunk.js",
-    "static/css/main.d421a2d7.chunk.css",
-    "static/js/main.48fbf12f.chunk.js"
+    "static/css/main.5cb8af42.chunk.css",
+    "static/js/main.5d2285c6.chunk.js"
   ]
 }

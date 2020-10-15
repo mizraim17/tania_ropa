@@ -9,7 +9,7 @@ import bdArticulos from "./articulos.json";
 function App() {
 	return (
 		<Container>
-			<h1 className="title">Venta de ropa Americana</h1>
+			<h1 className="title">Venta de Ropa Americana</h1>
 			<Row>
 				{bdArticulos.map((el, i) => {
 					return <Article key={i} item={el} />;

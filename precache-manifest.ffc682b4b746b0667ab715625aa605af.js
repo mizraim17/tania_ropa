@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5af19032173f70caea46673853fd5146",
+    "revision": "abced3db1c88c10d394a4d0a9b5ba8b7",
     "url": "/tania_ropa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tania_ropa/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "c80c084cbbb3582f88b4",
+    "revision": "bf65df5adb1e5cc30856",
     "url": "/tania_ropa/static/css/main.d421a2d7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tania_ropa/static/js/2.899fee66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c80c084cbbb3582f88b4",
-    "url": "/tania_ropa/static/js/main.1c98dc68.chunk.js"
+    "revision": "bf65df5adb1e5cc30856",
+    "url": "/tania_ropa/static/js/main.48fbf12f.chunk.js"
   },
   {
     "revision": "4d0290ab1175c41dcde1",
